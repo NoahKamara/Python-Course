@@ -1,6 +1,6 @@
-# 2.1 BEDINGUNGEN & AUSDRÜCKE
+# 3.1 BEDINGUNGEN & AUSDRÜCKE
 
-# 2.1.1 Boolsche Ausdrücke
+# 3.1.1 Boolsche Ausdrücke
 ## Operatoren
 a = (1 == 2) #> False
 b = (1 < 2) #> True
@@ -13,7 +13,7 @@ b = True or False #> True
 c = not (True and False) #> True
 
 
-# 2.1.2 IF Statements
+# 3.1.2 IF Statements
 ## IF
 if True:
     print("True")
@@ -38,15 +38,15 @@ else:
 
 # ---------------------------------- #
 
-# 2.2 SCHLEIFEN
-## 2.2.1 while Schleifen
+# 3.2 SCHLEIFEN
+## 3.2.1 while Schleifen
 
 namen = ["Klaus","Simon","Sven","Markus","Simone","Nikolas"]
 i = 0
 while i < len(namen):
     print("Hallo "+namen[i])
     
-## 2.2.2 For Schleifen
+## 3.2.2 For Schleifen
 
 namen = ["Klaus","Simon","Sven","Markus","Simone","Nikolas"]
 

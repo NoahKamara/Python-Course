@@ -1,6 +1,6 @@
-# 1.3 ERSTE SCHRITTE
+# 2 ERSTE SCHRITTE
 
-# 1.3.1 Die Basics
+# 1.1 Die Basics
 ## Print Statements
 print("Hello World")
 print(123)
@@ -10,7 +10,7 @@ print("Hello World")
 
 
 
-# 1.3.1 Datentypen in Python
+# 1.2 Datentypen in Python
 ## Zahlen
 integer = 1
 floating = 1.23817289461892789
