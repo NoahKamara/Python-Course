@@ -1,3 +1,9 @@
+"""Cakerando
+Example for Cake delivery-service
+
+Author: Noah Kamara
+"""
+
 from collections import Counter
 
 # Tuples -> like lists but immutable

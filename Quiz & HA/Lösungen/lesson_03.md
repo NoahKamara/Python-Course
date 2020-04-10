@@ -21,7 +21,7 @@
             <h1 class="headline">2. Dolor Sit</h1>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
 
-            <h3 class="headline subheadline">3. Amet</h3>
+            <h1 class="subheadline">3. Amet<h1>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
             </body>
         </html>

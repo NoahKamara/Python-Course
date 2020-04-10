@@ -1,0 +1,7 @@
+Hallo ${RECIPIENT_NAME}, 
+
+Dies ist eine Test-Nachricht.
+Das ist deine Email: ${RECIPIENT_MAIL}
+
+Liebe Grüße,
+${SENDER_NAME}
