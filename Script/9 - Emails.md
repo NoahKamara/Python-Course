@@ -162,7 +162,7 @@ cfg = {
     'host': 'smtp.ionos.de',
     'port': 587,
     'user': 'test@dev.noahkamara.com',
-    'pass': '988-xyQ-6Vp-NEp'
+    'pass': ''
 }
 
 
